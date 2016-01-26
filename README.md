@@ -4,7 +4,7 @@ This project contains list of useful atom packages
 
 ## How to install packages
 ```
-apm install `cat packages.list`
+apm install --packages-file ./package.list
 ```
 
 ## How to update packages
