@@ -4,10 +4,10 @@ This project contains list of useful atom packages
 
 ## How to install packages
 ```
-apm install --packages-file ./package.list
+./install.sh
 ```
 
 ## How to update packages
 ```
-apm list installed --bare > packages.list
+./update_repo.sh
 ```
